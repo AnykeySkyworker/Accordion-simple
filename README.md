@@ -1,2 +1,1 @@
-# DriverPack
-Landing page for HR
+# Simple template of accordion
